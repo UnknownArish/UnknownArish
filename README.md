@@ -1,6 +1,6 @@
 # Hi there! I'm Arinjay Shyam Saikia 👋
 
-🎓 B.Tech CSE-AIML Student | 💻 Beginner Coder | 🎶 Music & Gaming Enthusiast  
+💻 Beginner Coder | 🎶 Music & Gaming Enthusiast  
 🔥 Dreaming to become an expert in AI, ML, and Software Development.
 
 ---
