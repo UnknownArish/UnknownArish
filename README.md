@@ -28,7 +28,7 @@
 ---
 
 ### 🔗 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arinjay--shyam--saikia-blue?logo=linkedin)](https://www.linkedin.com/in/arinjay-shyam-saikia-360689219/)  
+[![LinkedIn](www.linkedin.com/in/arinjay-saikia-360689219)  
 📫 Email: unknowntech15@gmail.com
 
 ---
